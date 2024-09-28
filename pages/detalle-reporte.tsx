@@ -228,7 +228,7 @@ export default function DetalleReporte() {
                                     <div className='grid grid-cols-12 gap-4'>
                                         <div className={'col-span-10'}>
                                             <div className='flex items-center text-yellow-500 '>
-                                                <UserIcon className={"w-8 h-8 mr-2"} />
+                                                <UserIcon className={"w-8 h-8 mr-3"} />
                                                 <p className=' text-slate-800 font-medium text-lg'>
                                                     Nombre de cliente
                                                 </p>
